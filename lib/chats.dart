@@ -251,7 +251,7 @@ class Chats extends StatelessWidget {
           ),
           ListTile(
             leading: const CircleAvatar(
-              backgroundImage: NetworkImage('https://bit.ly/3Js3plQ'),
+              backgroundImage: NetworkImage('https://bit.ly/3N5hDeD'),
               backgroundColor: Colors.cyan,
             ),
             title:
@@ -276,7 +276,7 @@ class Chats extends StatelessWidget {
           ),
           ListTile(
             leading: const CircleAvatar(
-              backgroundImage: NetworkImage('https://bit.ly/3Js3plQ'),
+              backgroundImage: NetworkImage('https://bit.ly/3ikQiaa'),
               backgroundColor: Colors.teal,
             ),
             title:
@@ -301,7 +301,7 @@ class Chats extends StatelessWidget {
           ),
           ListTile(
             leading: const CircleAvatar(
-              backgroundImage: NetworkImage('https://bit.ly/3Js3plQ'),
+              backgroundImage: NetworkImage('https://bit.ly/3N5hbNt'),
               backgroundColor: Colors.black54,
             ),
             title:
