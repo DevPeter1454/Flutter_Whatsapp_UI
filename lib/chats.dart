@@ -7,6 +7,7 @@ class Chats extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: ListView(
+     
         children: [
           ListTile(
             leading: const Icon(Icons.archive_outlined, color: Colors.grey),
